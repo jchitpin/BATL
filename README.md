@@ -4,7 +4,7 @@ Bioinformatic tools capable of annotating, rapidly and reproducibly, large, targ
 
 ## Web server for BATL
 
-A graphical user interface version of BATL is available at http://complimet.ca:3838/batl/ or http://complimet.ca/batl/
+A graphical user interface version of BATL is available at https://complimet.ca/batl/
 
 ## Installation
 
